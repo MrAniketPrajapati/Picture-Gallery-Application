@@ -1,0 +1,18 @@
+I have created a Picture Gallery application using HTML, CSS, JavaScript , API calls.
+
+In the "index.html" file, I've structured the body section with a header and a main section. Inside the main section, i have placed a div tag. Following the main section, I've included a script source link.
+
+Within the header tag, I have used an h1 tag as the largest heading, and  added the text "Picture Gallery." Additionally,  included an input element with specified attributes like type, id, and placeholder.
+
+In the main section, created four buttons labeled "All," "Landscape," "Food," and "Animals."
+
+When writing the CSS code, I encountered some challenges, such as determining the appropriate values for properties like padding, margin, and width to ensure that the images are displayed correctly.
+
+In the JavaScript code, i have declared constants like gallery, searchInput, and categoryButtons. also used functions, arrays, for-each loops, conditional statements (if-else), and event listeners to manipulate the gallery and handle user interactions.
+
+Overall, i have built a functional picture gallery application with HTML, CSS, and JavaScript, and  faced some typical challenges in the process.
+
+
+
+
+
